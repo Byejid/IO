@@ -1,4 +1,4 @@
-Project Overview
+Project Overview: 
 This project is a simple login interface built with SwiftUI for iOS. It demonstrates basic authentication logic within the app by comparing user-inputted credentials with predefined values. The app displays feedback messages to indicate a successful or failed login attempt.
 
 Features
